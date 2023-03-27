@@ -1,6 +1,16 @@
 # Interface and Navigation
 
+ <div class="highlight">
 *Get comfortable with the basics to double your workflow efficiency!*
+</div>
+
+<style>
+    .highlight {
+        background-color: #f0f0f0;
+        padding: 10px;
+        border-radius: 5px;
+    }
+</style>
 
 ![](TD-02-01-AutoCAD.png)
 
